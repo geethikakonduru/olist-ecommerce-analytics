@@ -1,7 +1,7 @@
 ﻿# Brazilian E-Commerce Analytics (Olist Dataset)
 
 ## Project Overview
-End-to-end customer analytics project using the Olist public dataset (100k+ orders, 9 related tables). The project covers cohort retention analysis, RFM customer segmentation, CLV calculation, and revenue performance — delivered through advanced SQL and an interactive Power BI dashboard.
+End-to-end customer analytics project using the Olist public dataset (100k+ orders, 9 related tables). The project covers cohort retention analysis, RFM customer segmentation, CLV calculation and revenue performance delivered through advanced SQL and an interactive Power BI dashboard.
 
 ## Key Business Questions Answered
 - Which customer cohorts retain best after 30, 60, and 90 days?
