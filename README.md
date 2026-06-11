@@ -11,7 +11,7 @@ End-to-end customer analytics project using the Olist public dataset (100k+ orde
 - Which product categories drive cumulative revenue growth?
 
 ## Key Findings
-- 23.5% of customers fall into the At Risk segment — high past spend but no recent activity — representing the largest opportunity for re-engagement campaigns
+- 23.5% of customers fall into the At Risk segment(high past spend but no recent activity) representing the largest opportunity for re-engagement campaigns
 - Customers who leave a 5-star review have a measurably higher repeat purchase rate than those who leave 1-star reviews
 - Cohort retention drops significantly after month 1, consistent with a marketplace model where most customers are one-time buyers
 
